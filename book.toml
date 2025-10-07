@@ -2,5 +2,6 @@
 title = "Architecting DAO 3.0: The Genesis Artifacts"
 author = "Carlos Arleo"
 description = "A verifiable blueprint for solving the core implementation gaps in Regenerative Finance, generated in partnership with the Wisdom Forcing Function AI."
+
 [build]
 build-dir = "docs"
