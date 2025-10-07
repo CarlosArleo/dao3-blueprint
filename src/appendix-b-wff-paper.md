@@ -62,7 +62,7 @@ This loop operationalizes dialectics by treating each agent's output as untruste
 
 This entire architecture logs every step—every generation, claim, audit, and synthesis—providing a fully transparent and auditable reasoning trace that makes the system a true "Glass Box."
 
-![WFF Architecture Diagram](../images/wff-architecture.png)
+![WFF Architecture Diagram](images/wff-architecture.png)
 
 ### 4. Empirical Validation
 
